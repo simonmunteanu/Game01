@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+.container {
+    background-color: rgb(205, 113, 0);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: white;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+#start-game-btn {
+padding: 1rem;
+background-color: black;
+color:white;
+border-radius: 0.3rem;
+font-size: 2rem;
+}
